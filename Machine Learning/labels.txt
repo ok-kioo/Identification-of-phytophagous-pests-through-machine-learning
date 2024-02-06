@@ -1,0 +1,8 @@
+0 Ácaro
+1 Tripes
+2 Cochonilha
+3 Pulgão
+4 Mosca-Branca
+5 Lesmas
+6 Formiga
+7 Lagarta
